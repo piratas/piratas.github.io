@@ -245,3 +245,9 @@ a {
 .cf {
   zoom:1;
 }
+
+img.icone {
+	max-width:16px;
+	max-height:16px;
+}
+
